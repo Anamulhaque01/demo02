@@ -145,7 +145,7 @@
     }
 
     .about p{
-        margin-left: 5vw;
+        margin:0 5vw;
     }
 
     .abosec{
@@ -180,6 +180,8 @@
         text-align: justify;
         font-weight: 100;
         line-height: 7vw;
+        
+        
     }
 
     .please{
@@ -189,7 +191,7 @@
 
     .footer{
         width: 100%;
-        height: 77vh;
+        height: 82vh;
         background-color: #0F0F0F;
         color: #fff;
         
