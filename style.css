@@ -101,14 +101,17 @@
     }
 
     .vdo{
-        height: 50vh;
+        height: 40vh;
+        background-color: #0F0F0F;
+        margin-bottom:10vw;
     }
 
     .vdo video{
         height: 40vh;
         width: 100%;
         object-fit: cover;
-        position: absolute;
+        position: relative;
+        
     }
 
     .give{
@@ -139,6 +142,7 @@
         text-align: left;
         padding-right: 6vw;
         font-weight: 500;
+        
         
     }
 
@@ -261,6 +265,7 @@
     .link2{
         font-size:3.5vw;
         margin-top: 12vw;
+        text-align: center;
     }
 
 }
